@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    margin: 0;
+  
+}
+.topbar{
+    width: 100%;
+    background-color:#B22222;
+    padding: 20px 48px;
+    text-align: center;
+    text-color: white;
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+.menu{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 20px;
+        
+}
+.header{
+    text-align: center;
+    color: #B22222;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 5px;
+}
+.paragraph{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+.quote{
+    color: #B22222;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.arnold{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.exercise{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.last{
+    color: #B22222;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+}
